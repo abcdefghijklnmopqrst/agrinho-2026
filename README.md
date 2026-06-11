@@ -1,1 +1,4 @@
-# agrinho-2026
+# Quiz Agrinho
+
+
+Projeto desenvolvido para o cocurso agrinho.
